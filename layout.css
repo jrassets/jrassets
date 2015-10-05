@@ -1,0 +1,37 @@
+.site_center {text-align:center;}
+.main {margin:0 auto; width:900px; text-align:left;}
+
+
+.col_1, .col_2, .col_3, .col_box_1, .col_box_2{ float:left;}
+
+
+/*======= index.html =======*/
+#page1 .content .col_1{width:425px;}
+#page1 .content .col_2{width:210px; margin-left:77px;}
+/*=========================*/
+
+/*======= index-1.html =======*/
+#page2 .content .col_1{width:425px;}
+#page2 .content .col_2{width:210px; margin-left:77px;}
+/*=========================*/
+
+/*======= index-2.html =======*/
+#page3 .content .col_1{width:425px;}
+#page3 .content .col_2{width:210px; margin-left:77px;}
+/*=========================*/
+
+/*======= index-3.html =======*/
+#page4 .content .col_1{width:425px;}
+#page4 .content .col_2{width:236px; margin-left:77px;}
+/*=========================*/
+
+/*======= index-4.html =======*/
+#page5 .content .col_1{width:425px;}
+#page5 .content .col_2{width:236px; margin-left:77px;}
+/*=========================*/
+
+/*======= index-5.html =======*/
+#page6 .content .col_1{width:720px;}
+/*=========================*/
+
+

@@ -1,0 +1,73 @@
+* { margin:0; padding:0;}
+body { background:#000000; font-size:100%; line-height:1em; font-family:Arial, tahoma; color:#7a7a7a;}
+
+
+/*in_line*/
+input, select { vertical-align:middle; font-weight:normal; font-family:tahoma; color:#000000; font-weight:normal;}
+img {border:0; vertical-align:top; text-align:left;}
+ul { list-style:none;}
+
+a:hover{text-decoration:none;}
+a {color:#cecece;}
+
+
+
+.column { float:left;}
+.clear { clear:both;}
+
+
+h1{text-indent:-10000px; font-size:0; line-height:0;}
+
+.h_img, .h_wr_logo, .content{ width:900px;}
+
+/*header*/
+.tall_header{ background:#1d1d1d url(images/tall_header.gif) 2px 0 repeat-x; width:100%;}
+.flash{
+	height:220px;
+	width:900px;
+}
+
+
+/*footer*/
+.footer{ color:#c8c8c8; font-size:0.75em; padding:18px 0 60px 57px;}
+.footer a{ color:#a91c12; text-decoration:none;}
+.footer a:hover{ text-decoration:underline;}
+
+
+/*content*/
+.content{ padding-bottom:32px; padding-left:56px; font-size:0.75em; color:#666666; line-height:1.25em;}
+.content span{ text-transform:uppercase; color:#cecece; display:block; margin-bottom:5px;}
+.title{ display:block; margin-bottom:14px;}
+.img_left{ float:left; margin-right:20px;}
+.line_x{ background:url(images/line_x.gif) 0 20px repeat-x; height:35px;}
+.wr_link{ background:url(images/wr_link_x.gif) 0 0 repeat-x; width:auto;}
+.wr_link a{font-size:10px; text-decoration:none; line-height:21px;}
+.wr_link span{ display:block; background:url(images/wr_link_right.gif) top right no-repeat; height:21px; width:auto; margin:0; text-align:center; }
+.w1{ width:101px;}
+.w2{ width:118px;}
+.w3{ width:126px;}
+.w_f{ width:68px;}
+.ind_wr{ margin:13px 0 0 13px;}
+.ind_2{ padding:11px 0 21px 0;}
+.link{ color:#666666; display:block; margin-bottom:3px;}
+.link1{ color:#666666;}
+
+/*================== index-4.html ==================*/
+#page5 .content .col_box{ width:425px;}
+#page5 .content .col_box_1{ width:221px;}
+#page5 .content .col_box_1 .h_f{ height:30px;}
+#page5 .content .col_box_2{ width:198px;}
+#page5 .content .col_box input{ width:196px; height:18px;}
+#page5 .content .col_box textarea{ width:196px; height:109px; overflow:auto; display:block; margin-bottom:10px;}
+#page5 .content .col_box textarea, #page5 .content .col_box input{ border:1px solid #4b4b4b; background:#252525; font-size:11px; color:#FFF; font-family:Arial;}
+/**/
+#page5 .content .col_boxa{ width:191px;}
+#page5 .content .col_box_1a{ width:73px; float:left}
+#page5 .content .col_box_2a{ width:80px; float:left;}
+
+
+/*==================list====================*/
+.list li a { background:url(images/list_bull.gif) center left no-repeat; margin:0; padding:0 0 0 13px; color:#666666; line-height:2.125em;}
+.list_1 li{background:url(images/list_bull.gif) 0 9px no-repeat; margin:0 0 6px 0; padding:0 0 0 13px; }
+.list_1 li a{color:#666666; line-height:2.125em; display:block;}
+/*==========================================*/
